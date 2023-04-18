@@ -10,8 +10,8 @@
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caioreisx._)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioReis29&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=FFFF00&text_color=c9d1d9&bg_color=0d1117" alt="Caio Reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioReis29&layout=compact&hide_border=true&title_color=32CD32&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioReis29&show_icons=true&theme=merko" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioReis29&layout=compact&hide_border=true&title_color=32CD32&text_color=FFFF&bg_color=0d1117"/>
 </div>
 
 ## Main Skills:
