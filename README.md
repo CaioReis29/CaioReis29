@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Reis;I'm+19+years+old;I'm+from+Brazil;Studying+systems+analysis+and+development;Be+Welcome!+:D)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CaioReis29&bg_color=0d1117&color=32CD32&line=FFFF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioReis29&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Main social networks:
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-reis-9a485b249)
