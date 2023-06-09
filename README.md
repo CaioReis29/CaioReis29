@@ -23,6 +23,8 @@
 ![Express.JS](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
 ![Sequelize.JS](https://img.shields.io/badge/sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
 ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-0D1117?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=0175C2)&nbsp;
 
 ### Studying in this moment:
 
