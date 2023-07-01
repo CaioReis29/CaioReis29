@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Reis;I'm+19+years+old;I'm+from+Brazil;Studying+systems+analysis+and+development;Be+Welcome!+:D)](https://git.io/typing-svg)
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioReis29&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Main social networks:
@@ -18,23 +19,32 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioReis29&layout=compact&hide_border=true&title_color=0175C2&text_color=FFFF&bg_color=0d1117"/>
 </div>
 
-## Main Skills:
+## My Skills:
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; -->
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Express.JS](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
-![Sequelize.JS](https://img.shields.io/badge/sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
-![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-0D1117?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=0175C2)&nbsp;
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 20px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 20px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" style="margin-right: 20px"/>
+</div>
+          
+          
 
-### Studying in this moment:
+## Studying in this moment:
 
-![Firebase](https://img.shields.io/badge/firebase-0D1117.svg?style=for-the-badge&logo=firebase)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=0175C2)&nbsp;
+<div style="display= flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" style="margin-right: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" style="margin-right: 20px"/>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=120&section=footer"/>
