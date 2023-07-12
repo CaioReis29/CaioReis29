@@ -1,20 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=120&section=header"/>
+# Hey, guys!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Reis;I'm+19+years+old;I'm+from+Brazil;Studying+systems+analysis+and+development;Be+Welcome!+:D)](https://git.io/typing-svg)
+<p>
+ I'm Caio Reis, web and mobile development. Currently working with Dart and Flutter for cross-platform applications. Be welcome to my GitHub : D
+</p>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioReis29&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Main social networks:
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-reis-9a485b249)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=caio.dev29@gmail.com)
-[![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caioreisx._)
+[![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.dev404/)
 
 <div align="center">  
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">
     <img  alt="CaioReis29's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/CaioReis29?cardType=github&theme=prussian&preferLogin=false" />
-  </a>
+  </a> 
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioReis29&layout=compact&hide_border=true&title_color=0175C2&text_color=FFFF&bg_color=0d1117"/>
 </div>
@@ -46,5 +46,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" style="margin-right: 20px"/>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=120&section=footer"/>
