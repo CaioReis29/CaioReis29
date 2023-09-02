@@ -1,7 +1,7 @@
 # Hey, guys!
 
 <p>
- I'm Caio Reis, web and mobile development. Currently working with Dart and Flutter for cross-platform applications. Be welcome to my GitHub : D
+ I'm Caio Reis, web and mobile developer. Currently working with Dart and Flutter for cross-platform applications. Be welcome to my GitHub : D
 </p>
 
 
